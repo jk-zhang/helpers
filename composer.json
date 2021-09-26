@@ -1,0 +1,17 @@
+{
+    "name": "jk-zhang/helpers",
+    "description": "助手包",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "JkZhang\\Helpers\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "张俊坤",
+            "email": "1311915984@qq.com"
+        }
+    ],
+    "require": {}
+}
